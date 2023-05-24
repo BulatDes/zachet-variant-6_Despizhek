@@ -1,0 +1,10 @@
+D:\зачет\Zachet-variant6_Despizhek\bin\Debug\Zachet-variant6_Despizhek.exe.config
+D:\зачет\Zachet-variant6_Despizhek\bin\Debug\Zachet-variant6_Despizhek.exe
+D:\зачет\Zachet-variant6_Despizhek\bin\Debug\Zachet-variant6_Despizhek.pdb
+D:\зачет\Zachet-variant6_Despizhek\obj\Debug\Zachet-variant6_Despizhek.csproj.AssemblyReference.cache
+D:\зачет\Zachet-variant6_Despizhek\obj\Debug\Zachet_variant6_Despizhek.Form1.resources
+D:\зачет\Zachet-variant6_Despizhek\obj\Debug\Zachet_variant6_Despizhek.Properties.Resources.resources
+D:\зачет\Zachet-variant6_Despizhek\obj\Debug\Zachet-variant6_Despizhek.csproj.GenerateResource.cache
+D:\зачет\Zachet-variant6_Despizhek\obj\Debug\Zachet-variant6_Despizhek.csproj.CoreCompileInputs.cache
+D:\зачет\Zachet-variant6_Despizhek\obj\Debug\Zachet-variant6_Despizhek.exe
+D:\зачет\Zachet-variant6_Despizhek\obj\Debug\Zachet-variant6_Despizhek.pdb
